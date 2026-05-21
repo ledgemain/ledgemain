@@ -2,7 +2,7 @@
 $OutputEncoding = [System.Text.Encoding]::UTF8
 Clear-Host
 
-Write-Host "Made by Ledgemain`nDm n0tyd for Questions or Bugs`n" -ForegroundColor Blue
+Write-Host "Made by Ledgemain Dm n0tyd in discord for Questions or Bugs`n" -ForegroundColor Blue
 Write-Host @"
 ██╗     ███████╗██████╗  ██████╗ ███████╗███╗   ███╗ █████╗ ██╗███╗   ██╗
 ██║     ██╔════╝██╔══██╗██╔════╝ ██╔════╝████╗ ████║██╔══██╗██║████╗  ██║
