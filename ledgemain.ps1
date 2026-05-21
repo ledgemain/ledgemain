@@ -2,26 +2,26 @@
 $OutputEncoding = [System.Text.Encoding]::UTF8
 Clear-Host
 
-Write-Host "Made by Ledgemain`nDm n0tyd for Questions or Bugs`n" -ForegroundColor Cyan
+Write-Host "Made by Ledgemain`nDm n0tyd for Questions or Bugs`n" -ForegroundColor Blue
 Write-Host @"
-██╗   ██╗ █████╗ ██████╗ ██████╗ ██╗     ███████╗████████╗ █████╗ ██████╗ ███████╗████████╗ █████╗ ███╗   ██╗ ╗███████╗
-╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗██║     ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔══██╗████╗  ██║╔╝██╔════╝
- ╚████╔╝ ███████║██████╔╝██████╔╝██║     █████╗     ██║   ███████║██████╔╝███████╗   ██║   ███████║██╔██╗ ██║  ███████╗
-  ╚██╔╝  ██╔══██║██╔══██╗██╔═══╝ ██║     ██╔══╝     ██║   ██╔══██║██╔═══╝ ╚════██║   ██║   ██╔══██║██║╚██╗██║  ╚════██║
-   ██║   ██║  ██║██║  ██║██║     ███████╗███████╗   ██║   ██║  ██║██║     ███████║   ██║   ██║  ██║██║ ╚████║  ███████║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚══════╝
+██╗     ███████╗██████╗  ██████╗ ███████╗███╗   ███╗ █████╗ ██╗███╗   ██╗
+██║     ██╔════╝██╔══██╗██╔════╝ ██╔════╝████╗ ████║██╔══██╗██║████╗  ██║
+██║     █████╗  ██║  ██║██║  ███╗█████╗  ██╔████╔██║███████║██║██╔██╗ ██║
+██║     ██╔══╝  ██║  ██║██║   ██║██╔══╝  ██║╚██╔╝██║██╔══██║██║██║╚██╗██║
+███████╗███████╗██████╔╝╚██████╔╝███████╗██║ ╚═╝ ██║██║  ██║██║██║ ╚████║
+╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 
-███╗   ███╗ ██████╗ ██████╗      █████╗ ███╗   ██╗ █████╗ ██╗    ██╗   ██╗███████╗███████╗██████╗ 
-████╗ ████║██╔═══██╗██╔══██╗    ██╔══██╗████╗  ██║██╔══██╗██║    ╚██╗ ██╔╝╚══███╔╝██╔════╝██╔══██╗
-██╔████╔██║██║   ██║██║  ██║    ███████║██╔██╗ ██║███████║██║     ╚████╔╝   ███╔╝ █████╗  ██████╔╝
-██║╚██╔╝██║██║   ██║██║  ██║    ██╔══██║██║╚██╗██║██╔══██║██║      ╚██╔╝   ███╔╝  ██╔══╝  ██╔══██╗
-██║ ╚═╝ ██║╚██████╔╝██████╔╝    ██║  ██║██║ ╚████║██║  ██║███████╗  ██║   ███████╗███████╗██║  ██║
-╚═╝     ╚═╝ ╚═════╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
+███╗   ███╗ ██████╗ ██████╗      █████╗ ███╗   ██╗ █████╗ ██╗  ██╗   ██╗███████╗███████╗██████╗
+████╗ ████║██╔═══██╗██╔══██╗    ██╔══██╗████╗  ██║██╔══██╗██║  ╚██╗ ██╔╝╚══███╔╝██╔════╝██╔══██╗
+██╔████╔██║██║   ██║██║  ██║    ███████║██╔██╗ ██║███████║██║   ╚████╔╝   ███╔╝ █████╗  ██████╔╝
+██║╚██╔╝██║██║   ██║██║  ██║    ██╔══██║██║╚██╗██║██╔══██║██║    ╚██╔╝   ███╔╝  ██╔══╝  ██╔══██╗
+██║ ╚═╝ ██║╚██████╔╝██████╔╝    ██║  ██║██║ ╚████║██║  ██║███████╗██║   ███████╗███████╗██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
 "@ -ForegroundColor Blue
 
 $lineWidth = 100
-Write-Host "Ledgemain's Mod Analyzer V6.0".PadLeft(($lineWidth + 34) / 2) -ForegroundColor Cyan
-Write-Host ("━" * $lineWidth) -ForegroundColor Cyan
+Write-Host "Ledgemain's Mod Analyzer V6.0".PadLeft(($lineWidth + 34) / 2) -ForegroundColor Blue
+Write-Host ("━" * $lineWidth) -ForegroundColor Blue
 Write-Host ""
 
 Write-Host "Enter path to the mods folder: " -NoNewline
@@ -40,7 +40,7 @@ if (-not $process) { $process = Get-Process java -ErrorAction SilentlyContinue }
 if ($process) {
     try {
         $elapsed = (Get-Date) - $process.StartTime
-        Write-Host "Minecraft Uptime: $($process.Name) PID $($process.Id) started at $($process.StartTime) and running for $($elapsed.Hours)h $($elapsed.Minutes)m $($elapsed.Seconds)s`n" -ForegroundColor Cyan
+        Write-Host "Minecraft Uptime: $($process.Name) PID $($process.Id) started at $($process.StartTime) and running for $($elapsed.Hours)h $($elapsed.Minutes)m $($elapsed.Seconds)s`n" -ForegroundColor Blue
     } catch {}
 }
 
@@ -119,7 +119,7 @@ if ($javaProcesses.Count -eq 0) {
 
 function Get-Minecraft-Version-From-Mods($modsFolder) {
     $mcVersions = @{}; $modsScanned = 0
-    Write-Host "Analyzing mods for Minecraft version..." -ForegroundColor Cyan
+    Write-Host "Analyzing mods for Minecraft version..." -ForegroundColor Blue
     foreach ($file in (Get-ChildItem -Path $modsFolder -Filter *.jar)) {
         try {
             $zip = [System.IO.Compression.ZipFile]::OpenRead($file.FullName)
@@ -151,14 +151,14 @@ function Get-Minecraft-Version-From-Mods($modsFolder) {
     }
     if ($mcVersions.Count -gt 0) {
         $best = $mcVersions.GetEnumerator() | Sort-Object -Property @{E={$_.Value};D=$true},@{E={$_.Key};D=$true} | Select-Object -First 1
-        Write-Host "Detected Minecraft version: $($best.Key) (from $($best.Value) out of $modsScanned mods)" -ForegroundColor Cyan
+        Write-Host "Detected Minecraft version: $($best.Key) (from $($best.Value) out of $modsScanned mods)" -ForegroundColor Blue
         return $best.Key
     }
     if ($process) {
         try {
             $cl = (Get-WmiObject Win32_Process -Filter "ProcessId = $($process.Id)").CommandLine
             foreach ($pat in @('versions[/\\](\d+\.\d+(?:\.\d+)?)[/\\]','-Dminecraft\.version=(\d+\.\d+(?:\.\d+)?)','-Dfabric\.gameVersion=(\d+\.\d+(?:\.\d+)?)','--version\s+(\d+\.\d+(?:\.\d+)?)')) {
-                if ($cl -match $pat) { Write-Host "Detected Minecraft version from process: $($matches[1])" -ForegroundColor Cyan; return $matches[1] }
+                if ($cl -match $pat) { Write-Host "Detected Minecraft version from process: $($matches[1])" -ForegroundColor Blue; return $matches[1] }
             }
         } catch { Write-Host "Warning: Could not read process command line" -ForegroundColor DarkYellow }
     }
@@ -579,7 +579,7 @@ foreach ($file in (Get-ChildItem -Path $mods -Filter *.jar)) {
     }
 }
 
-function Write-Sep($color="Cyan") { Write-Host ("━"*111) -ForegroundColor $color }
+function Write-Sep($color="Blue") { Write-Host ("━"*111) -ForegroundColor $color }
 function Write-Card($lines, $color) {
     Write-Host "  ╔══════════════════════════════════════════" -ForegroundColor $color
     foreach ($l in $lines) {
@@ -591,7 +591,7 @@ function Write-Card($lines, $color) {
     Write-Host ""
 }
 
-Write-Sep; Write-Host "RESULTS SUMMARY" -ForegroundColor Cyan; Write-Sep; Write-Host ""
+Write-Sep; Write-Host "RESULTS SUMMARY" -ForegroundColor Blue; Write-Sep; Write-Host ""
 
 Write-Sep Green; Write-Host "VERIFIED MODS: $($verifiedMods.Count) ✓" -ForegroundColor Green; Write-Sep Green
 if ($verifiedMods.Count -gt 0) {
@@ -608,7 +608,7 @@ Write-Sep Yellow; Write-Host "UNKNOWN MODS: $($unknownMods.Count) ?" -Foreground
 if ($unknownMods.Count -gt 0) {
     foreach ($mod in $unknownMods) {
         Write-Card @(@{text="UNKNOWN MOD";color="Yellow"}, "File: $($mod.FileName)", "Size: $($mod.FileSizeKB) KB") Yellow
-        if ($mod.ModName) { Write-Host "  ║ " -NoNewline -ForegroundColor Yellow; Write-Host "Identified as: $($mod.ModName)" -ForegroundColor Cyan }
+        if ($mod.ModName) { Write-Host "  ║ " -NoNewline -ForegroundColor Yellow; Write-Host "Identified as: $($mod.ModName)" -ForegroundColor Blue }
     }
 } else { Write-Host "  No unknown mods found" -ForegroundColor Gray }
 Write-Host ""
